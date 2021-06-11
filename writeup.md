@@ -10,7 +10,7 @@ This is a simple portfolio website with a built-in Blog, perfect for a computer 
 <b>Front-end:</b> HTML, CSS
 
 # :exploding_head: Challenges we ran into
-
+We weren't very familiar with Python and Flask, which made the environment setup process difficult, although with research and support from each other we were able to set it up. In terms of front-end stuff, we had some experience with HTML and CSS but hadn't used it for a while. Through refering to documentation and tutorials, we were able to refresh our memory and get the project ready for a live demo.
 
 # :partying_face: Accomplishments that we're proud of
 
@@ -19,4 +19,4 @@ This is a simple portfolio website with a built-in Blog, perfect for a computer 
 
 
 # :thinking: What's next for Sponge Bob Portfolio?
-Right now the portfolio is just a mock up, starring Spongebob and a number of placeholders. Eventually we'd like to each modify it to contain our own contact information, experiences, and projects.
+Right now the portfolio is just a mock up, starring Spongebob and a number of placeholders. Eventually we'd like to each modify it to contain our own contact information, experiences, and projects. We would also like to add Edit and Delete endpoints for the blog posts as well as restrict access to Add/Edit/Delete posts to only the owner.

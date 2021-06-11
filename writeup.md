@@ -13,7 +13,10 @@ This is a simple portfolio website with a built-in Blog, perfect for a computer 
 We weren't very familiar with Python and Flask, which made the environment setup process difficult, although with research and support from each other we were able to set it up. In terms of front-end stuff, we had some experience with HTML and CSS but hadn't used it for a while. Through refering to documentation and tutorials, we were able to refresh our memory and get the project ready for a live demo.
 
 # :partying_face: Accomplishments that we're proud of
-
+- Finishing the project on time!
+- Deploying the project
+- Communication between the team
+- Taking initative to learn things as we went
 
 # :woman_student: What we learned
 We learned that we need to be careful using GitHub and to follow best practices. We've become more aware of what branch we're working on, and are getting better at remembering to use branches when working on new features. We also learned about Jinja templates (the HTML files become Jinja templates when using Flask), as well as basic Python syntax and how to set up a development environment using Flask. 

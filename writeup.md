@@ -20,3 +20,5 @@ This is a simple portfolio website with a built-in Blog, perfect for a computer 
 
 # :thinking: What's next for Sponge Bob Portfolio?
 Right now the portfolio is just a mock up, starring Spongebob and a number of placeholders. Eventually we'd like to each modify it to contain our own contact information, experiences, and projects.
+
+We would also like to add Edit and Delete endpoints for the blog posts as well as restrict access to Add/Edit/Delete posts to only the owner.

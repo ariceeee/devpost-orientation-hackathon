@@ -16,6 +16,7 @@ We weren't very familiar with Python and Flask, which made the environment setup
 
 
 # :woman_student: What we learned
+We learned that we need to be careful using GitHub and to follow best practices. We've become more aware of what branch we're working on, and are getting better at remembering to use branches when working on new features. We also learned about Jinja templates (the HTML files become Jinja templates when using Flask), as well as basic Python syntax and how to set up a development environment using Flask. 
 
 # :boom: Shout outs
 We'd like to thank Mahzad, who helped us to get set up with Flask, Python, IDE, venv, etc.

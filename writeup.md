@@ -17,6 +17,8 @@ We weren't very familiar with Python and Flask, which made the environment setup
 
 # :woman_student: What we learned
 
+# :boom: Shout outs
+We'd like to thank Mahzad, who helped us to get set up with Flask, Python, IDE, venv, etc.
 
 # :thinking: What's next for Sponge Bob Portfolio?
 Right now the portfolio is just a mock up, starring Spongebob and a number of placeholders. Eventually we'd like to each modify it to contain our own contact information, experiences, and projects. We would also like to add Edit and Delete endpoints for the blog posts as well as restrict access to Add/Edit/Delete posts to only the owner.

@@ -10,7 +10,7 @@ This is a simple portfolio website with a built-in Blog, perfect for a computer 
 <b>Front-end:</b> HTML, CSS
 
 # :exploding_head: Challenges we ran into
-Andres: I haven't used Python much before so it was a difficult at first to set up the environment. It took some time but with some debugging and help of the time we figure it out. Additionally, deploying was difficuly because I wasn't familiar with the requirements.txt and Procfile files that were needed in order to build the app.
+Part of our wasn't familiar with Python and Flask, this made the environment setup process difficult, although with research and support from each other we were able to set it up. Furthermore, we hadn't worked with just HTML and CSS recently which slowed us down but we were able to pick it up quickly and get the project ready for a live demo.
 
 # :partying_face: Accomplishments that we're proud of
 

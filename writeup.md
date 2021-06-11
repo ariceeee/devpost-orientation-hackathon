@@ -5,9 +5,9 @@ Both of us are fairly new to Flask so we wanted to start simple. Hence, we took 
 This is a simple portfolio website with a built-in Blog, perfect for a computer science student. The portfolio operates as a single page with a navigation bar that links to the About, Projects, and Experience sections to easily jump around the page. The Blog is also linked in the navigation bar, where you can then view previous posts or create a new one.
 
 # :computer: How we built it
-
 <b>Back-end:</b> Python, Flask and Firebase
 <b>Front-end:</b> HTML, CSS
+We used the Firabase Database to store the blog posts and with help of Flask and Python we were able to setup the endpoints for creating and fetching blog posts. For the front-end we kept it simple and we were able to stick with HTML and CSS for all our design.
 
 # :exploding_head: Challenges we ran into
 We weren't very familiar with Python and Flask, which made the environment setup process difficult, although with research and support from each other we were able to set it up. In terms of front-end stuff, we had some experience with HTML and CSS but hadn't used it for a while. Through refering to documentation and tutorials, we were able to refresh our memory and get the project ready for a live demo.
